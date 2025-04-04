@@ -1,0 +1,2 @@
+# SQL
+Involves DDL,DML,TCL,DQL,DCL AND JOINS
